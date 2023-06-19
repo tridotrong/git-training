@@ -12,3 +12,5 @@
 5. Git Commit
    - git commit -m "git-training" -> thêm các thông báo rõ ràng vào mỗi lần xác nhận để dễ dàng nhận biết
    - git log để xem lịch sử commit của mình
+6. Git Push
+   - git push -u origin dev -> push lên repository trên branch dev
