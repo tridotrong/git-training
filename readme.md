@@ -19,6 +19,6 @@
    - git branch git-branch-test -> create branch git-branch-test
    - git checkout git-branch-test -> chuyển sang branch git-branch-test
 8. Git Merge
-   - git checkout `diff - dev ` -> chuyển sang nhánh chính cần merge
-   - git git merge git-branch-test -> merge nhánh git-branch-test vào nhánh `diff - dev `
+   - git checkout <span style="color:red;">dev</span> -> chuyển sang nhánh chính cần merge
+   - git git merge git-branch-test -> merge nhánh git-branch-test vào nhánh <span style="color:red;">dev</span>
    - git branch -d git-branch-test -> deleted branch git-branch-test
