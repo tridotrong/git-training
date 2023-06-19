@@ -53,3 +53,8 @@
    - Step 2: Use it to make a new commit:
      ![git revert step 2](https://www.w3schools.com/git/img_revert_part2.gif)
    - git revert <commit-id>
+2. Git reset -> là lệnh chúng ta sử dụng khi muốn di chuyển kho lưu trữ về previous commit , loại bỏ mọi thay đổi được thực hiện sau lần commit đó
+   - Step 1: Find the previous commit:
+     ![git reset step 1](https://www.w3schools.com/git/img_reset_part1.gif)
+   - Step 2: Step 2: Move the repository back to that step:
+     ![git reset step 2](https://www.w3schools.com/git/img_reset_part2.gif)
