@@ -32,4 +32,5 @@
 2. Git Pull from GitHub
    - // chỉnh sửa trên giao diện
    - // chỉnh sửa trên giao diện lần 2 -> test lại git fetch
+   - // chỉnh sửa trên giao diện lần 3 -> test lại git fetch
    - git fetch 
