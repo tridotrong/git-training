@@ -31,4 +31,5 @@
    - git clone https://github.com/tridotrong/git-training -> clone 1 repository vào new directory
 2. Git Pull from GitHub
    - // chỉnh sửa trên giao diện
+   - // chỉnh sửa trên giao diện lần 2 -> test lại git fetch
    - git fetch 
