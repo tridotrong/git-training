@@ -58,3 +58,4 @@
      ![git reset step 1](https://www.w3schools.com/git/img_reset_part1.gif)
    - Step 2: Step 2: Move the repository back to that step:
      ![git reset step 2](https://www.w3schools.com/git/img_reset_part2.gif)
+3. Git Amend -> sửa đổi commit gần đây nhất 
