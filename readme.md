@@ -39,3 +39,16 @@
    - git log origin/dev -> kiểm tra bằng cách xem lại log
    - git diff origin/dev -> xem những thay đổi 1 cách rõ ràng
    - ### git fetch origin + git merge origin/dev = git pull origin
+
+# GIT ADVANCED
+
+1. Git Ignore and .gitignore -> sử dụng khi bạn push code nhưng có những file không muốn push
+   - git sẽ theo dõi các file được chỉ định trong .gitignore , tuy nhiên bản thân tệp .gitignore bị git theo dõi
+
+# GIT UNDO
+
+1. Git Revert -> là lệnh chúng tôi sử dụng khi chúng tôi muốn thực hiện một previous commit và thêm nó dưới dạng new commit, giữ nguyên log
+   - Step 1: Find the previous commit:
+     ![git revert step 1](https://www.w3schools.com/git/img_revert_part1.gif)
+   - Step 2: Use it to make a new commit:
+     ![git revert step 2](https://www.w3schools.com/git/img_revert_part2.gif)
