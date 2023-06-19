@@ -34,7 +34,7 @@
    - // chỉnh sửa trên giao diện lần 2 -> test lại git fetch
    - // chỉnh sửa trên giao diện lần 3 -> test lại git fetch
    - git fetch origin - theo dõi những thông tin thay đổi mới từ branch của Remote repository về máy tính của bạn không hợp nhất với local repository
-   - ## Với git fetch, bạn có thể theo dõi các commit người khác đã cập nhật lên server, đồng thời nắm bắt được những thông tin khác nhau giữa remote và local
+   - ### Với git fetch, bạn có thể theo dõi các commit người khác đã cập nhật lên server, đồng thời nắm bắt được những thông tin khác nhau giữa remote và local
    - git log origin/dev -> kiểm tra bằng cách xem lại log
    - git diff origin/dev -> xem những thay đổi 1 cách rõ ràng
-   - ## git fetch origin + git merge origin/dev = git pull origin
+   - ### git fetch origin + git merge origin/dev = git pull origin
