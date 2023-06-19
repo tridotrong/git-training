@@ -14,3 +14,11 @@
    - git log để xem lịch sử commit của mình
 6. Git Push
    - git push -u origin dev -> push lên repository trên branch dev
+7. Git Branch
+   - git branch -> xem các branch đang có
+   - git branch git-branch-test -> create branch git-branch-test
+   - git checkout git-branch-test -> chuyển sang branch git-branch-test
+8. Git Merge
+   - git checkout `diff - dev ` -> chuyển sang nhánh chính cần merge
+   - git git merge git-branch-test -> merge nhánh git-branch-test vào nhánh `diff - dev `
+   - git branch -d git-branch-test -> deleted branch git-branch-test
