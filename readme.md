@@ -24,3 +24,8 @@
    - git branch -d git-branch-test -> deleted branch git-branch-test
 9. Merge Conflict
    - mở file và edit lại file
+
+# GIT AND GITHUB
+
+1. Git clone
+   - git clone https://github.com/tridotrong/git-training -> clone 1 repository vào new directory
