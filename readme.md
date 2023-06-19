@@ -52,3 +52,4 @@
      ![git revert step 1](https://www.w3schools.com/git/img_revert_part1.gif)
    - Step 2: Use it to make a new commit:
      ![git revert step 2](https://www.w3schools.com/git/img_revert_part2.gif)
+   - git revert <commit-id>
