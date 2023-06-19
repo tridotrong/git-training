@@ -22,6 +22,7 @@
    - git checkout <span style="color:red;">dev</span> -> chuyển sang nhánh chính cần merge
    - git git merge git-branch-test -> merge nhánh git-branch-test vào nhánh <span style="color:red;">dev</span>
    - git branch -d git-branch-test -> deleted branch git-branch-test
+   - git push origin --delete git-branch-test -> delete branch git-branch-test trên origin
 9. Merge Conflict
    - mở file và edit lại file
 
