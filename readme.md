@@ -62,3 +62,11 @@
 4. Git stash
    - stash all change : git stash
    - get the last change has been stashed : git pop
+
+# rename branch đã push
+
+1. Rename branch
+   - git checkout Task-46052
+   - git branch -m Bug-46052
+   - git push origin -u Bug-46052
+   - git push origin --delete Task-46052
