@@ -80,3 +80,4 @@
    - đã tạo pull-request
      - git pull origin dev
      - edit file
+3. git test delete
