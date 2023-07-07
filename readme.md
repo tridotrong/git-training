@@ -65,12 +65,18 @@
 
 # rename branch đã push
 
+- test
+
 1. Rename branch
    - git checkout Task-46052
    - git branch -m Bug-46052
    - git push origin -u Bug-46052
    - git push origin --delete Task-460522
 2. Git conflict
-   - git stash
-   - git stash drop
-   - git pull
+   - chưa tạo pull-request
+     - git stash
+     - git stash drop
+     - git pull
+   - đã tạo pull-request
+     - git pull origin dev
+     - edit file
